@@ -1,0 +1,293 @@
+{
+  "settings": {
+    "name": "Site-04-07_2227",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "clarus",
+      "title": "Clarus",
+      "styling": {
+        "primaryColor": "#0dba26",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Raleway",
+        "textFont": "Raleway",
+        "isRoundedButtons": false
+      }
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.12.3",
+    "siteFonts": [],
+    "imageResize": true,
+    "uniqCompNum": 6,
+    "versionPublish": "4.12.3"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/header6.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.9"
+          },
+          "title": "<span>Здравствуйте</span>",
+          "text": "Это сайт<br>Специально<br>Для<br>Заражённых<br>Самым<br>Опастным<br>Вирусом<br>Или же СДЗСОВ",
+          "buttons": "<a data-app-btn=\"true\" href=\"index.html#content6-3\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ВАУ! а что мне делать?</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-1"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "columns": "4",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "Правила",
+          "text": "Правида для заражённых вирусом",
+          "title1": "Слушаться главного",
+          "title2": "НЕТУ НИ КАКИХ ПРАВИЛ!",
+          "title3": "Ты не как не удалишь",
+          "title4": "Анти-вирус не поможет!",
+          "title5": "get project result",
+          "title6": "get project result",
+          "text1": "Слушаться создателя вируса",
+          "text2": "- Уничтожение компа",
+          "text3": "И не должен удалять....",
+          "text4": "Не устанавливай анти-вирус!",
+          "text5": "Nulla vitae urna eleifend, ultrices lorem ut, posuere sapien. In maximus massa neque, et molestie ex ",
+          "text6": "Nulla vitae urna eleifend, ultrices lorem ut, posuere sapien. In maximus massa neque, et molestie ex ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-3"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "showTitle": true,
+            "showText": true,
+            "showMedia": false,
+            "showImages": true,
+            "columns": "4",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 320,
+              "src": "@THEME_PATH@/components/_images/info.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Счётчик смертей",
+          "text": "конечно же компов а ты о чём подумал? :)",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "target",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "close",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "code",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "protect",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "Под тчательным надзором",
+          "title2": "Нету компов",
+          "title3": "Разрабов вируса",
+          "title4": "Уже под защитой",
+          "text1": "ЗАЗААЗЗААЗ",
+          "text2": "Помните? Нарушали правило = пизда компу",
+          "text3": "Более тысяча создовали вирус",
+          "text4": "патамучта они котики и друзя)",
+          "number1": "+1000000",
+          "number2": "+1000",
+          "number3": "+1000000",
+          "number4": "+1000000",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-4"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "showTitle": true,
+            "showText": true,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75,
+            "googleMap": {
+              "placeId": "ChIJtcaxrqlZwokRfwmmibzPsTU",
+              "address": "350 5th Ave, New York, NY 10118"
+            }
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 320,
+              "src": "@THEME_PATH@/components/_images/about.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "НАПИШИ НАМ!",
+          "text": "Может быть и ты станешь другом (подругой)",
+          "title1": "<span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>address",
+          "title2": "<span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>e-mail",
+          "title3": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>phone",
+          "text1": "319 Clematis St.  Suite 100",
+          "text2": "<a href=\"mailto:sample@sample.com\">sample@sample.com</a>",
+          "text3": "<a href=\"tel:+138 (095) 6526 538\">+138 (095) 6526 538</a>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "zejkovv@gmail.com",
+            "alerts": {
+              "success": "Досвиданья"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Имя*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Электронная почта*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" type=\"submit\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-5"
+        }
+      ]
+    }
+  }
+}
